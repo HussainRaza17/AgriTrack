@@ -1,5 +1,3 @@
-# Shadcn-UI Template Usage Instructions
-
 ## technology stack
 
 This project is built with:
